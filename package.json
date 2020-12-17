@@ -1,0 +1,24 @@
+{
+  "name": "zoho-node-mailer",
+  "version": "1.0.6",
+  "author": "Harish Mahajan",
+  "bundleDependencies": false,
+  "dependencies": {
+    "nodemailer": "^4.6.3"
+  },
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zoho",
+    "zoho node mailer",
+    "node mailer",
+    "zoho mail",
+    "send mail with zoho using node",
+    "node zoho mail"
+  ]
+}
